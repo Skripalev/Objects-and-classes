@@ -18,5 +18,6 @@ public class Main {
 
         book2.setPublicYear(1950);
         System.out.println("book2.publicYear = " + book2.getPublicYear());
+
     }
 }

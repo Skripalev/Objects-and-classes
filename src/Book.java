@@ -29,6 +29,7 @@ public class Book {
 
     public String toString() {
         return bookName + " by " + authorBook.toString() + ", published in " + publicYear;
+
     }
 }
 
